@@ -3,3 +3,4 @@ tweepy
 pandas
 altair
 mecab-python3
+unidic-lite
