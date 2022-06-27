@@ -2,4 +2,4 @@ streamlit
 tweepy
 pandas
 altair
-mecab-python
+mecab-python3
